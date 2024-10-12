@@ -4,8 +4,11 @@ I'm currently working on Information Security Projects/CTFs regarding Binary Exp
 🔭 I’m currently working on Information Security
 
 🌱 I’m currently learning Binary Exploitation/Pwn 
+
 👯 I’m looking to collaborate on Security/Linux related projects
+
 🤔 I’m looking for help with Low Level Programming
+
 💬 Ask me about Linux
 
 
