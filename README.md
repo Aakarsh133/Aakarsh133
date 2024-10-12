@@ -2,6 +2,7 @@
 I'm currently working on Information Security Projects/CTFs regarding Binary Exploitation/Reverse Engineering. I like to create/explore/oblirate vulnerable binaries. Also a linux freak. :)
 
 🔭 I’m currently working on Information Security
+
 🌱 I’m currently learning Binary Exploitation/Pwn 
 👯 I’m looking to collaborate on Security/Linux related projects
 🤔 I’m looking for help with Low Level Programming
